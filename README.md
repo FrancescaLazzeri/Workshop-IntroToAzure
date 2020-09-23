@@ -1,1 +1,1 @@
-# Princeton-IntroToAzure
+# Workshop-IntroToAzure
