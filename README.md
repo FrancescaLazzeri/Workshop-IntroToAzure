@@ -7,17 +7,13 @@ The first of a 3-part series, the objective of this course is to help prepare yo
 3.	Working with Data
 
 # The following topics are covered in this course:
-	Introduction to Azure cloud computing
-	Azure key concepts
-	Azure walkthrough
-	Exercise: Setting up your first Azure for Students subscription
-	Exercise: Preparing for Machine Learning in Azure
-	Exercise: Preparing for Working with Data
+	Introduction to Azure cloud computing (1A - Getting Started with Azure Video)
+		Azure key concepts
+		Azure walkthrough
 # Required Exercises
-	Setting up your first Azure for Students subscription
-	Preparing for Machine Learning in Azure
-	Preparing for Working with Data
+	Exercise: Setting up your first Azure for Students subscription (1B - Excercise: Setting up first Subscription Video)
+	Exercise: Preparing for Machine Learning in Azure (1C - Excercise: Preparing for Machine Learning Video)
+	Exercise: Preparing for Working with Data (1B - Excercise: Preparing for Working with Data Video)
 # Course Materials
-		On-demand videos with live Office Hours
-
-Click the following link to access the videos: https://github.com/FrancescaLazzeri/Workshop-IntroToAzure/releases/tag/1.0.0
+	On-demand videos with live Office Hours
+		Videos: https://github.com/FrancescaLazzeri/Workshop-IntroToAzure/releases/tag/1.0.0
