@@ -17,3 +17,6 @@ The first of a 3-part series, the objective of this course is to help prepare yo
 # Course Materials
 	On-demand videos with live Office Hours
 		Videos: https://github.com/FrancescaLazzeri/Workshop-IntroToAzure/releases/tag/1.0.0
+# Azure Fundamentals Learning Path 
+  Free e-learning content and videos realized by Microsoft Student Learn Team 
+    E-learning path: https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
