@@ -16,4 +16,4 @@ The first of a 3-part series, the objective of this course is to help prepare yo
 	Exercise: Preparing for Working with Data (1B - Excercise: Preparing for Working with Data Video)
 # Course Materials
 	On-demand videos with live Office Hours
-		Videos: https://github.com/FrancescaLazzeri/Workshop-IntroToAzure/releases/tag/1.0.0
+		Videos: https://aka.ms/university-azure/GettingStartedAzure
